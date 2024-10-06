@@ -1,0 +1,24 @@
+{
+  "name": "acougue-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeamignone/acougue-chatbot.git"
+  },
+  "author": "Felipe Mignone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeamignone/acougue-chatbot/issues"
+  },
+  "homepage": "https://github.com/felipeamignone/acougue-chatbot#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
