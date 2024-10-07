@@ -6,6 +6,7 @@ const port = 5001;
 
 const app = express();
 
+app.use("/", express.static("./Public"));
 app.use(express.json());
 app.use("/dialogflow", dialogRouter);
 

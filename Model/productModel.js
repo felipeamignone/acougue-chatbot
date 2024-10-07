@@ -1,4 +1,4 @@
-import ProductDAO from "../Persistence/productDAO.js";
+import ProductDAO from "../DAO/productDAO.js";
 
 export default class ProductModel {
   #id;

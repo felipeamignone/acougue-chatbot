@@ -144,15 +144,6 @@ const productsData = [
       "https://lh3.googleusercontent.com/proxy/JEllSwPXuxIwYp_lDAgZH4JIs6SiS4Zqfmr9R7mR0wHqyd_RLsEIUg5RgsWYW9uviOKPy6YT2HOwI0H4QKIIlYfdw7mMJ45k2auFj4mJwnwsUDO1ASO9H4k",
   },
   {
-    id: 17,
-    title: "Linguiça Caseira",
-    category: "Especialidades",
-    description: "Linguiça caseira temperada",
-    price: 25.0,
-    urlImage:
-      "https://lh3.googleusercontent.com/proxy/JEllSwPXuxIwYp_lDAgZH4JIs6SiS4Zqfmr9R7mR0wHqyd_RLsEIUg5RgsWYW9uviOKPy6YT2HOwI0H4QKIIlYfdw7mMJ45k2auFj4mJwnwsUDO1ASO9H4k",
-  },
-  {
     id: 18,
     title: "Farofa Temperada",
     category: "Acompanhamentos",
@@ -167,15 +158,6 @@ const productsData = [
     category: "Acompanhamentos",
     description: "Vinagrete caseiro",
     price: 10.0,
-    urlImage:
-      "https://lh3.googleusercontent.com/proxy/JEllSwPXuxIwYp_lDAgZH4JIs6SiS4Zqfmr9R7mR0wHqyd_RLsEIUg5RgsWYW9uviOKPy6YT2HOwI0H4QKIIlYfdw7mMJ45k2auFj4mJwnwsUDO1ASO9H4k",
-  },
-  {
-    id: 20,
-    title: "Maionese",
-    category: "Acompanhamentos",
-    description: "Maionese fresca",
-    price: 29.0,
     urlImage:
       "https://lh3.googleusercontent.com/proxy/JEllSwPXuxIwYp_lDAgZH4JIs6SiS4Zqfmr9R7mR0wHqyd_RLsEIUg5RgsWYW9uviOKPy6YT2HOwI0H4QKIIlYfdw7mMJ45k2auFj4mJwnwsUDO1ASO9H4k",
   },
